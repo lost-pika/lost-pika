@@ -25,25 +25,4 @@
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Core**  
-- Java | JavaScript | C | C++  
-
-**Frontend**  
-- React.js | HTML | CSS | TailwindCSS  
-
-**Backend**  
-- Node.js | Express.js  
-
-**Databases & Tools**  
-- MongoDB | MySQL  
-- Git & GitHub  
-- Linux 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lost-pika&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
-
----
-
 ⭐️ *"Discipline + Consistency = Growth"* ⭐️
