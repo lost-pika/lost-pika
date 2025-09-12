@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Srishti Verma  
 
-🌟 **Aspiring Web Developer** | 💻 **IT Student** | 📚 **DSA Learner** | 🏋️‍♀️ **Fitness Enthusiast**  
+🌟 **Aspiring Web Developer** | 📚 **DSA Learner** | 🏋️‍♀️ **Fitness Enthusiast**  
 
 ---
 
