@@ -20,8 +20,8 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lost-pika&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📈 Contribution Graph
+[![Srishti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lost-pika&theme=tokyo-night&hide_border=true)](https://github.com/lost-pika)
 
 ---
 
